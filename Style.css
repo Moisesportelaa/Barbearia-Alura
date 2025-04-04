@@ -3,15 +3,23 @@ body {
 }
 
 #banner {
-width: 100%;
+    width: 100%;
 }
 
-h1 {
-     text-align: center
+.principal {
+    background-color: #ffffff;
+    padding: 30px;
 }
 
-p {
+.titulo-principal {
+     padding-left: 20px
+}
+
+.titulo-centralizado {
     text-align: center
+}
+p {
+   text-align: center ; 
 }
 
 #missao {
@@ -19,4 +27,5 @@ p {
 }
 
 em strong {
-background-color: #ff0000
+    color: red;
+}
